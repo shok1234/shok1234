@@ -1,32 +1,54 @@
-# 👋 Hi, I'm Shokhan
+# 👋 Hi, I'm Shokhan Yousif
 
 🎓 Information Systems Engineering Graduate  
-💻 Frontend Developer (React)
+💻 Frontend Developer specializing in React.js  
+🚀 Building modern, responsive web applications
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Tech Stack
+**Frontend**
 - JavaScript (ES6+)
-- React
-- HTML, CSS
+- React.js
+- HTML5 & CSS3
 - Material UI
+- React Router
+
+**Backend & Database**
+- Node.js
+- Supabase
+- PostgreSQL
+
+**Tools**
 - Git & GitHub
+- Vite
+- VS Code
 
----
+## 📌 Featured Projects
 
-## 📌 Projects
+### MyPlan - Student Planner
+A React-based student productivity application with:
+- Task management
+- Profile system
+- Theme support
+- Multi-language support
+- Supabase authentication
+
+### Other Projects
 - React Admin Dashboard
-- React Router Project
-- Other frontend projects
-
----
+- Weather Application
+- Frontend UI Projects
 
 ## 📚 Currently Learning
-- Node.js
-- Express.js
-- Full Stack Development
 
----
+- Full Stack Development
+- Backend Development with Node.js 
+- Networking Fundamentals (CCNA)
+
+## 💼 Experience
+
+- Frontend Development Internship at Awrosoft
+- Odoo ERP Implementation & Customization
 
 ## 📫 Contact
-- Email: shokhanyousif@gmail.com
+
+Email: shokhanyousif@gmail.com
